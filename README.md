@@ -23,6 +23,10 @@ However, the following three categories are mostly followed:
 	Hybrid filtering
 
 
+	It is metadata (or features) based recommendation like movie metadata (genres, director, cast, crew etc.)
+	In this type of recommendation system, relevant items are shown using the content of the previously searched items by the users. 
+	Here content refers to the attribute/tag of the product that the user like. 
+	In this type of system, products are tagged using certain keywords, then the system tries to understand what the user wants, and it looks in its database and finally tries to recommend different products that the user wants.
 
 
 
