@@ -1,6 +1,6 @@
 ***NOTE:***
 
-***This file contain Basic Concept and Instructions for the Movie Search Based Recommendation System***
+***This file contains Basic Concepts and Instructions for the Movie Search Based Recommendation System***
 
 # Movie-Recommender-System
 
