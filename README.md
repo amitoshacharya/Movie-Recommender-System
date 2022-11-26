@@ -52,7 +52,7 @@
 			•	Model Based Collaborative filtering
 			
 			
-## INSTRUCTIONS FOR MOVIE SEARCH RECOMENDER SYSTEM
+## INSTRUCTIONS FOR MOVIE SEARCH RECOMMENDER SYSTEM
 
 ### Datasets used here, can be find in Kaggle: https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv 
 
